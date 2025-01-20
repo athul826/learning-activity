@@ -1,0 +1,8 @@
+# Ignore SSH keys
+.ssh/id_rsa
+.ssh/id_rsa.pub
+
+# Ignore known_hosts and other sensitive files
+.ssh/known_hosts
+.ssh/known_hosts.old
+
